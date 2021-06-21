@@ -35,9 +35,9 @@
 </details>
 
 
-# Encouraging Code Learning
+# Sharing == Caring ..
 
-**Intro:**
+**How I started coding, exact steps ? Read on .. **
 
 > python_learning repository has code written in my learning phase. Python, for it had me at first sight. My journey is not usual, I spent 20s setting up and operating businesses, teaching scuba and making bread in the non code world. 
 This code path started around >30< with an objective to build real solutions, add to the open source community, and to hopefully contribute lines of code to something meaningful. The python_learning repository contains nuemerous .py files. Each representing an independent code project apt for beginners. The other repos are exciting too, do check them out. 
@@ -62,7 +62,7 @@ One doesn't have to learn code to use code. Here are some steps if you only wish
 
 > Most importantly, if you undertake even a few of these steps then you have the calling to code. It is a bug to eliminate bugs, no way to learn bests; diving right in!
 
-> Since this is my first repo, I hope to keep a connect with it. So I am leaving my future goals below.
+> Since this is my first readme.MD, I hope to keep a connect with it. So I am leaving my future goals below.
 I'll update and mark them as I progress. That way if you get past learning and understanding all the code in this repository, you have a roadmap to follow further. What truly set me on this path of learning is nudges from my cousin Sid and Codecademy.
 If you find the bug in you: https://www.codecademy.com/catalog/language/python , I'll keep Sid out of this for now ;)
 
