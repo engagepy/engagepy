@@ -1,6 +1,5 @@
 # [Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I am Zorawar Purohit](https://zorawarpurohit.com/)
 
-![GitHub followers](https://img.shields.io/github/followers/zora89?style=social) 
 ![Twitter Follow](https://img.shields.io/twitter/follow/zorawarpurohit?style=social)
 ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCkblCilhkn_L39IDP1CNsyw?style=social)
 
