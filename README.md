@@ -15,8 +15,8 @@
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
 </p>
 
->* My primary coding language: Python
->* Passionate for learning & exploring new Tech. I write at (https://zorawarpurohit.com/) & make educational [YouTube Videos](https://www.youtube.com/c/ZorawarPurohit).
+>My primary coding language: Python
+>Passionate for learning & exploring new Tech. I write at (https://zorawarpurohit.com/) & make educational [YouTube Videos](https://www.youtube.com/c/ZorawarPurohit).
 
 - 🔭 I’m currently working on flask and django frameworks.
 - 🌱 I’m currently learning ML.
