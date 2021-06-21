@@ -1,10 +1,23 @@
 # [Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I am Zorawar Purohit](https://zorawarpurohit.com/)
 
-![GitHub followers](https://img.shields.io/github/followers/zora89?style=social) https://img.shields.io/twitter/follow/zorawarpurohit?style=social
+![GitHub followers](https://img.shields.io/github/followers/zora89?style=social) 
+![Twitter Follow](https://img.shields.io/twitter/follow/zorawarpurohit?style=social)
+![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCkblCilhkn_L39IDP1CNsyw?style=social)
 
 
 **A Learning Journey. I became a scuba instructor at age 22, entreprenuer at 25, hotelier at 28, started self taught coding at 30, still learning at 32** 
 
+### My Tech Toolbox 🧰 
+
+<p align="left">
+<img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" alt="python" width="40" height="40"/> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png" alt="html5" height="40"/> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" alt="css3" height="40"/> 
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+</p>
+
+* My primary coding language: Python
+* Passionate for learning & exploring new Tech. I write at (https://zorawarpurohit.com/) & make educational [YouTube Videos](https://www.youtube.com/c/ZorawarPurohit).
 
 - 🔭 I’m currently working on flask and django frameworks.
 - 🌱 I’m currently learning ML.
@@ -13,6 +26,14 @@
 - 💬 Ask me about India, marine life, scuba, python, public speaking, sales. 
 - 📫 How to reach me: mailzora@pm.me
 - ⚡ Fun fact: I am taller than you. 
+
+ <details>
+<summary>📊 Github Stats</summary>
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=zora89&show_icons=true&theme=gotham" alt="Zorawar Purohit | Stats" />
+
+</details>
+
 
 # Encouraging Code Learning
 
@@ -55,5 +76,7 @@ If you find the bug in you: https://www.codecademy.com/catalog/language/python ,
 - [ ] Host on a server
 - [ ] Share with pals
 
+
+<h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
 
 
