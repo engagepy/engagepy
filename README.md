@@ -48,9 +48,9 @@ One doesn't have to learn code to use code. Here are some steps if you only wish
 
 1. Start by downloading python from : https://www.python.org/downloads/ . It is safe, open source, popular and going places. Downloads are secure so ease into it. 
 
-2. Now download this repo as a .zip by clicking on the greeen code button. Bottom most option should say "Download Zip"
+2. Now download this repo as a .zip by clicking on the down arrow next to the green code button -> 'Download Zip'
 
-3. Once in your downloads folder extract it to the desktop *(recommended for ease of locating in terminal)* or any location you prefer. 
+3. Once in your downloads folder extract it to the desktop *(recommended for ease in locating on terminal )* or any location you prefer, just remember to navigate to it in the terminal. 
 
 4. Now head to the terminal or command, navigate to the directory python_learning you just extracted. *Don't know how to? Learn Terminal(Mac/Linux) here: https://www.youtube.com/watch?v=5XgBd6rjuDQ Learn Command(Windows) here: https://www.youtube.com/watch?v=MBBWVgE0ewk*
 
