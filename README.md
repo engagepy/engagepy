@@ -5,7 +5,7 @@
 ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCkblCilhkn_L39IDP1CNsyw?style=social)
 
 
-**A Learning Journey. I became a scuba instructor at age 22, entreprenuer at 25, hotelier at 28, started coding at 30, still learning at 32.** 
+**A Learning Journey. I became a parliamentary debating champion at age 20, scuba instructor at 22, entreprenuer at 25, hotelier at 28, started coding at 30, still learning across the board at 32.** 
 
 ### My Tech Toolbox 🧰 
 
