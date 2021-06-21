@@ -35,7 +35,7 @@
 </details>
 
 
-# Sharing == Caring ..
+# Sharing == Caring
 
 **How I started coding, exact steps? Read on ..**
 
