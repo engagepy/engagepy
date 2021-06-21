@@ -47,23 +47,13 @@ One doesn't have to learn code to use code. Here are some steps if you only wish
 
 1. Start by downloading python from : https://www.python.org/downloads/ . It is safe, open source, popular and going places. Downloads are secure so ease into it. 
 
-2. Now download this repo as a .zip by clicking on the down arrow next to the green code button -> 'Download Zip'
+2. Now download this repo (https://github.com/zora89/python_learning) as a .zip by clicking on the down arrow next to the green code button -> 'Download Zip'
 
-3. Once in your downloads folder extract it to the desktop *(recommended for ease in locating on terminal )* or any location you prefer, just remember to navigate to it in the terminal. 
-
-4. Now head to the terminal or command, navigate to the directory python_learning you just extracted. *Don't know how to? Learn Terminal(Mac/Linux) here: https://www.youtube.com/watch?v=5XgBd6rjuDQ Learn Command(Windows) here: https://www.youtube.com/watch?v=MBBWVgE0ewk*
-
-5. By now you should be in the directory using command or terminal. Now type: `python filename.py`   *|| Replace `file name` with any select file from this repo. Make sure it is precise in spelling and case, as is works best. ||*
-
-6. Each file when executed via method in step 5, relays the output on the terminal itself, so look out for that and play along. You'll find useful tax and partner share calculators, few nostalgic games and other fun experiments. Each line I've understood, written and enjoyed, in that order. 
-
-7. Some files may require access tokens and other parameters that are API/system specific. So look out for those and feel free to ask for help @ https://www.zorawarpurohit.com
+3. Continue with instructions on the repository page. 
 
 > Most importantly, if you undertake even a few of these steps then you have the calling to code. It is a bug to eliminate bugs, no way to learn bests; diving right in!
 
-> Since this is my first readme.MD, I hope to keep a connect with it. So I am leaving my future goals below.
-I'll update and mark them as I progress. That way if you get past learning and understanding all the code in this repository, you have a roadmap to follow further. What truly set me on this path of learning is nudges from my cousin Sid and Codecademy.
-If you find the bug in you: https://www.codecademy.com/catalog/language/python , I'll keep Sid out of this for now ;)
+> Since this is my first readme.MD, I hope to keep a connect with it. So I am leaving my future goals below. I'll update them as I progress.
 
 - [x] Finish Python Beginners Course
 - [x] Learn Terminal and Github
