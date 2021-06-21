@@ -1,6 +1,6 @@
 # [Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I am Zorawar Purohit](https://zorawarpurohit.com/)
 
-[<img height="30" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
+![GitHub followers](https://img.shields.io/github/followers/zora89?style=social)
 
 
 **A Learning Journey. I became a scuba instructor at age 22, entreprenuer at 25, hotelier at 28, started self taught coding at 30, still learning at 32** 
