@@ -16,6 +16,7 @@
 </p>
 
 > My primary coding language: Python
+
 > Passionate for learning & exploring new Tech. I write at (https://zorawarpurohit.com/) & make educational [YouTube Videos](https://www.youtube.com/c/ZorawarPurohit).
 
 - 🔭 I’m currently working on flask and django frameworks.
