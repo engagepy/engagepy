@@ -36,7 +36,7 @@
 
 # Sharing == Caring
 
-**How I started coding, exact steps? Read on ..**
+**A Short Code Story**
 
 > My journey is not usual, I spent 20s setting up and operating businesses, teaching scuba and making bread in the non code world. This code path started around >30< with an objective to build real solutions, add to the open source community, and to hopefully contribute lines of code to something meaningful. 
 
