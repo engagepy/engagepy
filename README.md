@@ -5,7 +5,7 @@
 
 ### My Tech Toolbox 🧰 
 
-###Delivered Active Projects: (https://astratechz.com/portfolio)
+### Delivered Projects: (https://astratechz.com/portfolio)
 
 <p align="left">
 <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" alt="python" width="40" height="40"/> 
