@@ -59,7 +59,7 @@ Don't have to learn code to use code. Here are some steps to test the waters.
 
 3. Continue with instructions on the repository page. 
 
-> Most importantly, if you undertake even a few of these steps then you have the calling to code. It is a bug to eliminate bugs, no way to learn bests; diving right in!
+> If you undertake even a few steps today, you have the calling to code. It is a bug to eliminate bugs, no way to learn bests; diving right in!
 
 > My programming goals are listed below. I update them as I progress.
 
