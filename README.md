@@ -39,7 +39,7 @@
 
 # Sharing == Caring
 
-**A Short code_Story**
+## **A Short code_Story**
 
 > Post graduation I spent nearly a decade in the non code world. Doing entreprenuerial travel businesses and teaching scuba in Andaman Islands. My path to code started around >30< with an urge to become a backend literate considering the global life & busines dependency on technology, thats compounding. Today I approach development with real world experiences & layered programmatic thinking. My objective: 
  
