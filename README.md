@@ -54,7 +54,7 @@ Don't have to learn code to use code. Here are some steps to test the waters.
 
 > Most importantly, if you undertake even a few of these steps then you have the calling to code. It is a bug to eliminate bugs, no way to learn bests; diving right in!
 
-> Since this is my first readme.MD, I hope to keep a connect with it. So I am leaving my future goals below. I'll update them as I progress.
+> My programming goals are listed below. I update them as I progress.
 
 - [x] Finish Python Beginners Course
 - [x] Learn Terminal and Github
