@@ -41,7 +41,7 @@
 
 ## **A Short code_Story**
 
-> Post graduation I spent nearly a decade in the non code world. Doing entreprenuerial travel businesses and teaching scuba in Andaman Islands. My path to code started around >30< with an urge to become a programming literate as life & businesses globally continue to develop compounding dependency on technology. Today I approach development with real world experiences & layered programmatic thinking. My objective: 
+> Post graduation I spent nearly a decade in the non code world. Doing entreprenuerial travel businesses and teaching scuba in Andaman Islands. My path to code started around >30< with an urge to become a programming literate, because lives & businesses globally continue to develop compounding dependency on technology. Today I approach development from real world experiences layered with programmatic thinking. My objective: 
  
 ### Find problems -> Build solutions -> Add to OS -> Code purposefully
 
