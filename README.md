@@ -14,6 +14,8 @@
 
 > Programming language stronghold: Python
 
+> Spoken language stronghold: English
+
 > I write at times (https://zorawarpurohit.com/) & make videos [YouTube Videos](https://www.youtube.com/c/ZorawarPurohit).
 
 ### def about(self):
