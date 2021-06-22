@@ -23,8 +23,8 @@
 
 ### def about(self):
 
-- 🔭 Double dating flask and django. 
-- 🌱 Hitting on ML, with eyes on computer vision.
+- 🌱 Double dating flask and django. 
+- 🔭 Hitting on ML, with eyes on computer vision.
 - 💬 Good at python, public speaking, scuba & sales. 
 - 📫 How to reach me: mailzora@pm.me
 - ⚡ Fun fact: I am taller than you. 
