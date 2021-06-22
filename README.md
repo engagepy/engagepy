@@ -39,7 +39,7 @@
 
 # Sharing == Caring
 
-**A Short Code Story**
+**A Short code_Story**
 
 > Post graduation I've spent my 20s in in the non code world. Doing entreprenuerial travel businesses and teaching scuba in Andaman Islands. This code path started around >30< with an urge to become code literate, leading to the objective: 
  
