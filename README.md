@@ -63,7 +63,7 @@ Don't have to learn code to use code. Here are some steps to test the waters.
 
 > My programming goals are listed below. I update them as I progress.
 
-- [x] Finish Python Beginners Course
+- [x] Finish Python Course with certificate
 - [x] Learn Terminal and Github
 - [x] Open pull requests with forked Repos
 - [x] Use API, make GET, POST requests
