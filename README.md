@@ -3,9 +3,6 @@
 ![Twitter Follow](https://img.shields.io/twitter/follow/zorawarpurohit?style=social)
 ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCkblCilhkn_L39IDP1CNsyw?style=social)
 
-
-**I am a self taught developer, believe in positive technology & aspiring to become a project lead.** 
-
 ### My Tech Toolbox 🧰 
 
 <p align="left">
@@ -15,14 +12,12 @@
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
 </p>
 
-> My primary coding language: Python
+> Programming language stronghold: Python
 
-> Passionate for learning & exploring new Tech. I write at (https://zorawarpurohit.com/) & make educational [YouTube Videos](https://www.youtube.com/c/ZorawarPurohit).
+> I write at times (https://zorawarpurohit.com/) & make educational videos [YouTube Videos](https://www.youtube.com/c/ZorawarPurohit).
 
-- 🔭 I’m currently working on flask and django frameworks.
-- 🌱 I’m currently learning ML.
-- 👯 I’m looking to collaborate on junior developer python roles.
-- 🤔 I’m looking for help with expedited, intensified learning.
+- 🔭 Double dating flask and django. 
+- 🌱 Hitting on ML, with eyes on computer vision.
 - 💬 Ask me about India, marine life, scuba, python, public speaking, sales. 
 - 📫 How to reach me: mailzora@pm.me
 - ⚡ Fun fact: I am taller than you. 
