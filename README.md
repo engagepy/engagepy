@@ -20,7 +20,7 @@
 
 - 🔭 Double dating flask and django. 
 - 🌱 Hitting on ML, with eyes on computer vision.
-- 💬 Ask me about India, marine life, scuba, python, public speaking, sales. 
+- 💬 Good at python, public speaking, scuba & sales. 
 - 📫 How to reach me: mailzora@pm.me
 - ⚡ Fun fact: I am taller than you. 
 
