@@ -16,6 +16,8 @@
 
 > I write at times (https://zorawarpurohit.com/) & make videos [YouTube Videos](https://www.youtube.com/c/ZorawarPurohit).
 
+### def about_me:
+
 - 🔭 Double dating flask and django. 
 - 🌱 Hitting on ML, with eyes on computer vision.
 - 💬 Ask me about India, marine life, scuba, python, public speaking, sales. 
