@@ -41,11 +41,11 @@
 
 **A Short code_Story**
 
-> Post graduation I've spent my 20s in in the non code world. Doing entreprenuerial travel businesses and teaching scuba in Andaman Islands. This code path started around >30< with an urge to become code literate, leading to the objective: 
+> Post graduation I spent nearly a decade in the non code world. Doing entreprenuerial travel businesses and teaching scuba in Andaman Islands. My path to code started around >30< with an urge to become a backend literate considering the global life & busines dependency on technology, thats compounding. Today I approach development with real world experiences & layered programmatic thinking. My objective: 
  
-### Build solutions, add to the open source community, and to code with meaning & purpose. 
+### Find problems, Build solutions, Add to OS, Code with purpose. 
 
-> Python, for it had me at first sight. python_learning repository has code written in my learning phase. It contains nuemerous .py files. Each representing an independent code project apt for beginners. The other repos are exciting too, do check them out. 
+> Python, for it had me at first sight. python_learning repository has code written in my learning phase. It contains nuemerous .py files. Each representing an independent code project apt for beginners. The other repos are exciting too, do check them out. Read on to start your own coding journey. All it takes is the right nudge..
 
 **Steps to Initiate:** *(Don't Over Think It. It's Easier Than you Think)*
 
