@@ -43,7 +43,7 @@ This code path started around >30< with an objective to build real solutions, ad
 
 **Steps to Initiate:** *(Don't Over Think It. It's Easier Than you Think)*
 
-One doesn't have to learn code to use code. Here are some steps if you only wish test waters with programming..
+Don't have to learn code to use code. Here are some steps if you wish to test the waters.
 
 1. Start by downloading python from : https://www.python.org/downloads/ . It is safe, open source, popular and going places. Downloads are secure so ease into it. 
 
