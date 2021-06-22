@@ -14,7 +14,7 @@
 
 > Programming language stronghold: Python
 
-> I write at times (https://zorawarpurohit.com/) & make educational videos [YouTube Videos](https://www.youtube.com/c/ZorawarPurohit).
+> I write at times (https://zorawarpurohit.com/) & make videos [YouTube Videos](https://www.youtube.com/c/ZorawarPurohit).
 
 - 🔭 Double dating flask and django. 
 - 🌱 Hitting on ML, with eyes on computer vision.
