@@ -41,7 +41,7 @@
 
 **A Short Code Story**
 
-> My journey is not usual, I spent 20s setting up and operating businesses, teaching scuba and making bread in the non code world. This code path started around >30< with an objective to build real solutions, add to the open source community, and to hopefully contribute lines of code to something meaningful. 
+> Post graduation I've spent my 20s in in the non code world. Doing entreprenuerial travel businesses and teaching scuba in Andaman Islands. This code path started around >30< with an urge to become code literate, leading to the objective: Build solutions, add to the open source community, and to hopefully contribute code in something meaningful. 
 
 > Python, for it had me at first sight. python_learning repository has code written in my learning phase. It contains nuemerous .py files. Each representing an independent code project apt for beginners. The other repos are exciting too, do check them out. 
 
