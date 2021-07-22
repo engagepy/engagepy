@@ -3,7 +3,7 @@
 ![Twitter Follow](https://img.shields.io/twitter/follow/zorawarpurohit?style=social)
 ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCkblCilhkn_L39IDP1CNsyw?style=social)
 
-### My Tech Toolbox 🧰 
+# Tech Tools  🧰
 
 
 <p align="left">
@@ -17,7 +17,7 @@
 </p>
 
 
-### Delivered Projects: (https://astratechz.com/portfolio)
+### Projects Delivered: (https://astratechz.com/portfolio)
 
 > Programming native: Python
 
@@ -72,7 +72,7 @@ Don't have to learn code to use code. Here are some steps to test the waters.
 - [x] Open pull requests with forked Repos
 - [x] Use API, make GET, POST requests
 - [x] Use twilio API, scrape data & send to pals
-- [ ] Learn Flask
+- [x] Learn Flask
 - [ ] Build a web app
 - [ ] Host on a server
 - [ ] Share with pals
