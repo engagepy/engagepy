@@ -3,7 +3,7 @@
 ![Twitter Follow](https://img.shields.io/twitter/follow/zorawarpurohit?style=social)
 ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCkblCilhkn_L39IDP1CNsyw?style=social)
 
-# Tech Tools  🧰
+# Stack  🧰
 
 
 <p align="left">
@@ -17,7 +17,7 @@
 </p>
 
 
-### Projects Delivered: (https://astratechz.com/portfolio)
+### Deployed: (https://astratechz.com/portfolio)
 
 > Programming native: Python
 
