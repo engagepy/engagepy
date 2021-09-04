@@ -78,6 +78,6 @@ Don't have to learn code to use code. Here are some steps to test the waters.
 - [ ] Share with pals
 
 
-<h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
+<h3 align="center">Show some &nbsp;❤️&nbsp;== starring repos!</h3>
 
 
