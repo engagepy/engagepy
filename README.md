@@ -19,11 +19,11 @@
 
 ### Deployed: (https://astratechz.com/portfolio)
 
-> Programming native: Python
+> Programming: Python
 
-> Spoken native: English
+> Spoken: English
 
-> I write at times (https://zorawarpurohit.com/) & make videos [YouTube Videos](https://www.youtube.com/c/ZorawarPurohit).
+> Thoughts (https://zorawarpurohit.com/) | Videos [YouTube Videos](https://www.youtube.com/c/ZorawarPurohit).
 
 ### def about(self):
 
