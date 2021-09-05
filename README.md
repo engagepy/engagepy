@@ -45,7 +45,7 @@
 
 ## **Journey**
 
-> Post graduation I spent nearly a decade in the non code world. Doing entreprenuerial travel businesses and becoming a platinum scuba instructor in Andaman Islands. My path to code started around >30< with an urge to become a programming literate, for as a specie we continue to build ever growing dependency on technology. I approach development with real world business experiences layered with programmatic thinking. 
+> Post graduation I spent nearly a decade in the non code world. Doing entreprenuerial travel businesses and becoming a platinum scuba instructor in Andaman Islands. My path to code started around >30< with an urge to become a programming literate, for as a specie we continue to build ever growing dependency on technology. I approach development with real world business experiences layered on programmatic thinking. 
  
 >I aim to Organise Systems -> Build Solutions -> Add to OS in the long run, purposefully. 
 
