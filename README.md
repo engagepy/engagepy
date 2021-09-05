@@ -76,6 +76,12 @@ Don't have to learn code to use code. Here are some steps to test the waters.
 - [x] Build a web app
 - [x] Host on a server
 - [x] Share with pals
+- [ ] Create & manage servers for python, php
+- [ ] Learn Javascript
+- [ ] Master HTML, CSS
+- [ ] Deploy app with Django
+- [ ] Deploy app with Flutter
+- [ ] Learn Containers
 
 
 <h3 align="center">&nbsp;❤️&nbsp;== starring repos!</h3>
