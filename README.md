@@ -43,11 +43,11 @@
 
 
 
-## **A Code_Story**
+## **Journey**
 
-> Post graduation I spent nearly a decade in the non code world. Doing entreprenuerial travel businesses and teaching scuba in Andaman Islands. My path to code started around >30< with an urge to become a programming literate, because lives & businesses globally continue to develop compounding dependency on technology. Today I approach development from real world experiences layered with programmatic thinking. 
+> Post graduation I spent nearly a decade in the non code world. Doing entreprenuerial travel businesses and teaching scuba in Andaman Islands. My path to code started around >30< with an urge to become a programming literate, for as a specie we continue to build ever growing dependency on technology. I approach development with real world business experiences layered with programmatic thinking. 
  
-> Today I hope to find pain points in unorganised systems -> Build solutions -> Add to OS -> Code purposefully
+>I aim to Organise Systems -> Build Solutions -> Add to OS in the long run, purposefully. 
 
 > Python, for it had me at first sight. python_learning repository has code written in my learning phase. It contains nuemerous .py files. Each representing an independent code project apt for beginners. The other repos are exciting too, do check them out. Read on to start your own coding journey. All it takes is a nudge.
 
