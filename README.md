@@ -37,7 +37,7 @@
 
 ## **Self Taught Journey**
 
-> Post graduation I spent nearly a decade in the non code world. Doing entreprenuerial travel businesses and becoming a platinum scuba instructor in Andaman Islands. My path to code started around >30< with an urge to become a programming literate, for as a specie we continue to build ever growing dependency on technology. I approach development with business experiences layered on programmatic thinking. 
+> Post graduation I spent nearly a decade in the non code world. Doing entreprenuerial travel businesses and becoming a platinum scuba instructor in Andaman Islands. My path to code started around >30< with an urge to become a programming literate, having observed the growing dependency on technology globally. I approach development with business experiences layered on programmatic thinking. 
 
 > Python, for it had me at first sight. python_learning repository has code written in my learning phase. It contains nuemerous .py files. Each representing an independent code project apt for beginners. The other repos are exciting too, do check them out. Read on to start your own coding journey. All it takes is a nudge.
 
