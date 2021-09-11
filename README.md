@@ -42,7 +42,8 @@
 > Python, for it had me at first sight. 
 
 
-## Programming goals are listed below. I update them as I progress.
+## Programming goals:
+
 - [x] Finish Python Course with certificate
 - [x] Learn Terminal and Github
 - [x] Open pull requests with forked Repos
