@@ -37,43 +37,8 @@
 
 ## **Self Taught Journey**
 
-> Post graduation I spent nearly a decade in the non code world. Doing entreprenuerial travel businesses and becoming a platinum scuba instructor in Andaman Islands. My path to code started around >30< with an urge to become a programming literate, having observed the growing dependency on technology globally. I approach development with business experiences layered on programmatic thinking. 
+> Post graduation I spent nearly a decade in the non code world. Doing entreprenuerial travel businesses and becoming a platinum scuba instructor in Andaman Islands. My path to code started around >30< with an urge to become a programming literate, having observed the growing dependency on technology globally. As a result I approach development with programmatic thinking layered on business experiences. 
 
-> Python, for it had me at first sight. python_learning repository has code written in my learning phase. It contains nuemerous .py files. Each representing an independent code project apt for beginners. The other repos are exciting too, do check them out. Read on to start your own coding journey. All it takes is a nudge.
-
-## **Start Your's** 
-
-*(Don't Over Think It. It's Easier Than you Think)*
-
-Don't have to learn code to use code. Here are some steps to test the waters.
-
-1. Start by downloading python from : https://www.python.org/downloads/ . It is safe, open source, popular and going places. Downloads are secure so ease into it. 
-
-2. Now download this repo (https://github.com/zora89/python_learning) as a .zip by clicking on the down arrow next to the green code button -> 'Download Zip'
-
-3. Continue with instructions on the repository page. 
-
-> If you undertake even a few steps today, you have the calling to code. It is a bug to eliminate bugs, no way to learn bests; diving right in!
-
-> My programming goals are listed below. I update them as I progress.
-
-- [x] Finish Python Course with certificate
-- [x] Learn Terminal and Github
-- [x] Open pull requests with forked Repos
-- [x] Use API, make GET, POST requests
-- [x] Use twilio API, scrape data & send to pals
-- [x] Learn Flask
-- [x] Build a web app
-- [x] Host on a server
-- [x] Share with pals
-- [ ] Create & manage servers for python, php
-- [ ] Learn Javascript
-- [ ] Master HTML, CSS
-- [ ] Deploy app with Django
-- [ ] Deploy app with Flutter
-- [ ] Learn Containers
-
-
-<h3 align="center">&nbsp;❤️&nbsp;== starring repos!</h3>
+> Python, for it had me at first sight. 
 
 
