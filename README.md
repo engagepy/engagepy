@@ -43,7 +43,7 @@
 
 > Python, for it had me at first sight. python_learning repository has code written in my learning phase. It contains nuemerous .py files. Each representing an independent code project apt for beginners. The other repos are exciting too, do check them out. Read on to start your own coding journey. All it takes is a nudge.
 
-#### **Start Your's** 
+## **Start Your's** 
 
 *(Don't Over Think It. It's Easier Than you Think)*
 
