@@ -42,3 +42,22 @@
 > Python, for it had me at first sight. 
 
 
+> Programming goals are listed below. I update them as I progress.
+- [x] Finish Python Course with certificate
+- [x] Learn Terminal and Github
+- [x] Open pull requests with forked Repos
+- [x] Use API, make GET, POST requests
+- [x] Use twilio API, scrape data & send to pals
+- [x] Learn Flask
+- [x] Build a web app
+- [x] Host on a server
+- [x] Share with pals
+- [ ] Create & manage servers for python, php
+- [ ] Learn Javascript
+- [ ] Master HTML, CSS
+- [ ] Deploy app with Django
+- [ ] Deploy app with Flutter
+- [ ] Learn Containers
+
+<h3 align="center">&nbsp;❤️&nbsp;== starring repos!</h3>
+
