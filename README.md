@@ -25,14 +25,6 @@
 
 > Thoughts (https://zorawarpurohit.com/) | Videos [YouTube Videos](https://www.youtube.com/c/ZorawarPurohit).
 
-### def about(self):
-
-- 🌱 Double dating flask and django. 
-- 🔭 Hitting on ML, with eyes on computer vision.
-- 💬 Good at python, public speaking, scuba & sales. 
-- 📫 How to reach me: mailzora@pm.me
-- ⚡ Fun fact: I am taller than you. 
-
  <details>
 <summary>📊 Github Stats</summary>
 
@@ -43,7 +35,7 @@
 
 
 
-## **Journey**
+## **Self Taught Journey**
 
 > Post graduation I spent nearly a decade in the non code world. Doing entreprenuerial travel businesses and becoming a platinum scuba instructor in Andaman Islands. My path to code started around >30< with an urge to become a programming literate, for as a specie we continue to build ever growing dependency on technology. I approach development with business experiences layered on programmatic thinking. 
  
@@ -51,7 +43,7 @@
 
 > Python, for it had me at first sight. python_learning repository has code written in my learning phase. It contains nuemerous .py files. Each representing an independent code project apt for beginners. The other repos are exciting too, do check them out. Read on to start your own coding journey. All it takes is a nudge.
 
-#### **Steps to Activate Your Super Power** 
+#### **Start Your's** 
 
 *(Don't Over Think It. It's Easier Than you Think)*
 
