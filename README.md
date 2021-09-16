@@ -17,7 +17,7 @@
 
 > Spoken: English
 
-> [Blog](https://zorawarpurohit.com/) | [YouTube](https://www.youtube.com/c/ZorawarPurohit).
+> [Blog](https://zorawarpurohit.com/) | [YouTube](https://www.youtube.com/c/ZorawarPurohit)
 
  <details>
 <summary>📊 Github Stats</summary>
