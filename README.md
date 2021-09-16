@@ -17,7 +17,7 @@
 
 > Spoken: English
 
-> Thoughts (https://zorawarpurohit.com/) | Videos [YouTube Videos](https://www.youtube.com/c/ZorawarPurohit).
+> Thoughts [Blogs & more..](https://zorawarpurohit.com/) | Videos [YouTube Videos](https://www.youtube.com/c/ZorawarPurohit).
 
  <details>
 <summary>📊 Github Stats</summary>
