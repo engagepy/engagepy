@@ -29,14 +29,14 @@
 
 
 
-## **Self Taught Journey**
+## **Journey**
 
 > Post graduation I spent nearly a decade in the non code world. Doing entreprenuerial travel businesses and becoming a platinum scuba instructor in Andaman Islands. My path to code started around >30< with an urge to become a programming literate, having observed the growing dependency on technology globally. As a result I approach development with programmatic thinking layered on business experiences. 
 
 > Python, for it had me at first sight. 
 
 
-## Programming goals:
+## Goals:
 
 - [x] Finish Python Course with certificate
 - [x] Learn Terminal and Github
