@@ -1,4 +1,4 @@
-## Stack
+## Stack:
 <p align="left">
 
 <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" alt="python" width="40" height="40"/> 
@@ -29,7 +29,7 @@
 
 
 
-## **Journey**
+## **Journey:**
 
 > Post graduation I spent nearly a decade in the non code world. Doing entreprenuerial travel businesses and becoming a platinum scuba instructor in Andaman Islands. My path to code started around >30< with an urge to become a programming literate, having observed the growing dependency on technology globally. As a result I approach development with programmatic thinking layered on business experiences. 
 
