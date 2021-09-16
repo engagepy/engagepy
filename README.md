@@ -1,9 +1,5 @@
-# [Zorawar Purohit](https://zorawarpurohit.com/)
-
-# Stack 
-
-
 <p align="left">
+# Stack 
 <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" alt="python" width="40" height="40"/> 
 <img src="https://img.icons8.com/nolan/128/flask.png" alt="Flask" width="40" height="40"/> 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png" alt="html5" height="40"/> 
