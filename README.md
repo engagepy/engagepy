@@ -11,7 +11,7 @@
 </p>
 
 
-### Deployed: (https://astratechz.com/portfolio)
+### Live Projects: (https://astratechz.com/portfolio)
 
 > Programming: Python
 
