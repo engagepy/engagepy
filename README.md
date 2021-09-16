@@ -1,9 +1,6 @@
 # [Zorawar Purohit](https://zorawarpurohit.com/)
 
-![Twitter Follow](https://img.shields.io/twitter/follow/zorawarpurohit?style=social)
-![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCkblCilhkn_L39IDP1CNsyw?style=social)
-
-#  My Stack 
+# Stack 
 
 
 <p align="left">
