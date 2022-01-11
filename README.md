@@ -50,5 +50,4 @@
 - [ ] Deploy app with Flutter
 - [ ] Learn Containers
 
-<h3 align="center">&nbsp;❤️&nbsp;== starring repos!</h3>
 
