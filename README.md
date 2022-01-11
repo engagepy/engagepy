@@ -11,7 +11,7 @@
 </p>
 
 
-### Live Projects: (https://astratechz.com/portfolio)
+### Live Projects: astratechz.com/portfolio
 
 > [Blog](https://zorawarpurohit.com/) | [YouTube](https://www.youtube.com/c/ZorawarPurohit)
 
