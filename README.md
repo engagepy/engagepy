@@ -13,10 +13,6 @@
 
 ### Live Projects: (https://astratechz.com/portfolio)
 
-> Programming: Python
-
-> Spoken: English
-
 > [Blog](https://zorawarpurohit.com/) | [YouTube](https://www.youtube.com/c/ZorawarPurohit)
 
  <details>
