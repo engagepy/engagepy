@@ -27,7 +27,7 @@
 
 ## **Journey:**
 
-> With a delayed yet mighty urge to become a programming literate. I approach development with programmatic thinking and a wide base of on ground process and business experiences.  
+> With a delayed yet mighty urge to become a programming literate. I approach development with programmatic thinking and a wide base of ground up business experiences.  
 
 
 ## Goals:
