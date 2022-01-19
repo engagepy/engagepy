@@ -27,7 +27,7 @@
 
 ## **Journey:**
 
-> My path to code started late, with an urge to become a programming literate. As a result I approach development with programmatic thinking combined with a broad base of on ground experiences.  
+> My path to code started late, with an urge to become a programming literate. As a result I approach development with programmatic thinking and a broad base of on ground experiences.  
 
 > I find that my self-taught programming and innate leadership skills align with achieving Prodcution Level Products across domains. 
 
