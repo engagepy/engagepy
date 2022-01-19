@@ -27,9 +27,9 @@
 
 ## **Journey:**
 
-> Post graduation I spent nearly a decade in the non code world. Doing entreprenuerial travel businesses and becoming a platinum scuba instructor in Andaman Islands. My path to code started around >30< with an urge to become a programming literate, having observed the growing dependency on technology globally. As a result I approach development with programmatic thinking layered on business experiences. 
+> My path to code started late, with an urge to become a programming literate. As a result I approach development with programmatic thinking combined with a broad base of on ground experiences.  
 
-> Python, for it had me at first sight. 
+> I find that my self-taught programming and innate leadership skills align with achieving Prodcution Level Products across domains. 
 
 
 ## Goals:
