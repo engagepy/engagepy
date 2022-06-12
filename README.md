@@ -21,13 +21,7 @@
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=zora89&show_icons=true&theme=gotham" alt="Zorawar Purohit | Stats" />
 
 </details>
-
-
-
-
-## **Journey:**
-
-> With a delayed yet mighty urge to become a programming literate. I approach development with programmatic thinking and a wide base of ground up business experiences.  
+ 
 
 
 ## Goals:
