@@ -9,7 +9,12 @@
 
 </details>
  
+ <details>
+<summary>📊 Github Stats</summary>
 
+<p align="center"> <img src="[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zora89&layout=compact)](https://github.com/zora89/github-readme-stats)" alt="Zorawar Purohit | Stats" />
+
+</details>
 
 ## Goals:
 
