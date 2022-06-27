@@ -33,6 +33,7 @@
 - [ ] Deploy app with Django
 - [ ] Deploy app with Flutter
 - [ ] Learn Containers
+- [ ] Deploy OpenCV Web Project
 
 
 ## Stack:
