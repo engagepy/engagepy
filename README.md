@@ -27,11 +27,12 @@
 - [x] Build a web app
 - [x] Host on a server
 - [x] Share with pals
-- [ ] Create & manage servers for python, php
+- [x] Deploy app with Flutter
+- [ ] Create & manage servers
 - [ ] Learn Javascript
 - [ ] Master HTML, CSS
 - [ ] Deploy app with Django
-- [ ] Deploy app with Flutter
+
 - [ ] Learn Containers
 - [ ] Deploy OpenCV Web Project
 
