@@ -27,14 +27,16 @@
 - [x] Build a web app
 - [x] Host on a server
 - [x] Share with pals
-- [x] Deploy app with Flutter
-- [ ] Create & manage servers
-- [ ] Learn Javascript
-- [ ] Master HTML, CSS
-- [ ] Deploy app with Django
-
-- [ ] Learn Containers
-- [ ] Deploy OpenCV Web Project
+- [ ] Deploy with django (deep dive)
+- [ ] App(triplatform) with flutter (deep dive)
+- [ ] Create & manage servers (deep dive)
+- [ ] Learn javascript (dsd)
+- [ ] Master html, css (deep dive)
+- [ ] Learn Containers (deep dive)
+- [ ] Deploy OpenCV Web Project (deep dive)
+- [ ] ML models undertake d-t-d journey (snorkelling)
+- [ ] Discreet Mathematics (snorkelling)
+- [ ] Embedded Software Development (snorkelling)
 
 
 ## Stack:
