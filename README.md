@@ -5,7 +5,7 @@
  <details>
 <summary>📊 Github Stats</summary>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=zora89&show_icons=true&theme=dracula" alt="Zorawar Purohit | Stats" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=zora89&show_icons=true&theme=tokyonight" alt="Zorawar Purohit | Stats" />
 
 </details>
  
