@@ -1,7 +1,6 @@
-### Live Projects: https://astratechz.com/portfolio
+### Links
 
-> [Blog](https://zorawarpurohit.com/) | [YouTube](https://www.youtube.com/c/ZorawarPurohit)
-
+[Bio](https://zorawar.bio.link) | [Portfolio](https://astratechz.com/portfolio) | [Blog](https://zorawarpurohit.com/) 
  <details>
 <summary>📊 Github Stats</summary>
 
