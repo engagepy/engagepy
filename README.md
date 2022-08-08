@@ -8,12 +8,6 @@
 
 </details>
  
- <details>
-<summary>👨🏽‍💻 Language Stats</summary>
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zora89&layout=compact" />
-
-</details>
 
 ## Stack:
 <p align="left">
