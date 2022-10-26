@@ -1,4 +1,4 @@
-### Links
+#### Links
 
 [Bio](https://zorawar.bio.link) | [Portfolio](https://astratechz.com/portfolio) | [Blog](https://zorawarpurohit.com/) 
  <details>
@@ -9,7 +9,7 @@
 </details>
  
 
-## Stack:
+#### Stack:
 <p align="left">
 
 <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" alt="python" width="40" height="40"/> 
@@ -39,7 +39,7 @@
 
 </p>
 
-## Goals:
+#### Goals:
 
 - [x] Finish Python Course with certificate
 - [x] Learn Terminal and Github
@@ -60,6 +60,3 @@
 - [ ] ML models undertake d-t-d journey (snorkel)
 - [ ] Discreet Mathematics (snorkel)
 - [ ] Embedded Software Development (snorkel)
-
-
-
