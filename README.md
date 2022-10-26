@@ -1,4 +1,4 @@
-#### Links
+
 
 [Bio](https://zorawar.bio.link) | [Portfolio](https://astratechz.com/portfolio) | [Blog](https://zorawarpurohit.com/) 
  <details>
