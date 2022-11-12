@@ -50,7 +50,7 @@
 - [x] Build a web app
 - [x] Host on a server
 - [x] Share with pals
-- [ ] Deploy with django (dive)
+- [x] Deploy with django (dive)
 - [ ] App(triplatform) with flutter (dive)
 - [ ] Create & manage servers (dive)
 - [ ] Learn javascript (discover)
