@@ -1,6 +1,6 @@
 
 
-[Bio](https://zorawar.bio.link) | [Blog](https://zorawarpurohit.com/) | [Portfolio](https://astratechz.com/portfolio) 
+[Bio Link](https://zorawar.bio.link)
  <details>
 <summary>📊 Github Stats</summary>
 
