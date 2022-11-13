@@ -38,6 +38,16 @@
 
 
 </p>
+<p align="left">
+
+<img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg" alt="git" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-vertical.svg" alt="git" width="40" height="40"/> 
+ 
+
+
+
+</p>
+
 
 #### Goals:
 
