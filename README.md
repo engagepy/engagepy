@@ -17,6 +17,7 @@
 <img src="https://img.icons8.com/nolan/128/flask.png" alt="Flask" width="40" height="40"/> 
 <img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg" alt="git" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/pocoo_jinja/pocoo_jinja-icon.svg" alt="git" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="git" width="40" height="40"/>
 
 </p>
 
@@ -32,10 +33,10 @@
 
 <p align="left">
 
-<img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="git" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/shopify/shopify-icon.svg" alt="git" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/wordpress/wordpress-tile.svg" alt="git" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/replit/replit-icon.svg" alt="git" width="40" height="40"/>
+
+     <img src="https://www.vectorlogo.zone/logos/shopify/shopify-icon.svg" alt="git" width="40" height="40"/>
+     <img src="https://www.vectorlogo.zone/logos/wordpress/wordpress-tile.svg" alt="git" width="40" height="40"/>
+     <img src="https://www.vectorlogo.zone/logos/replit/replit-icon.svg" alt="git" width="40" height="40"/>
 
 
 </p>
