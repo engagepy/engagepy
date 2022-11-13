@@ -27,28 +27,10 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" alt="css3" height="40"/> 
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="git" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/shopify/shopify-icon.svg" alt="git" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/wordpress/wordpress-tile.svg" alt="git" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/replit/replit-icon.svg" alt="git" width="40" height="40"/> 
  
-
-</p>
-
-<p align="left">
-
-
-     <img src="https://www.vectorlogo.zone/logos/shopify/shopify-icon.svg" alt="git" width="40" height="40"/>
-     <img src="https://www.vectorlogo.zone/logos/wordpress/wordpress-tile.svg" alt="git" width="40" height="40"/>
-     <img src="https://www.vectorlogo.zone/logos/replit/replit-icon.svg" alt="git" width="40" height="40"/>
-
-
-</p>
-<p align="left">
-
-
- 
-
-
-
-</p>
-
 
 #### Goals:
 
