@@ -1,6 +1,6 @@
 
 
-[Bio Link](https://zorawar.bio.link)
+[Bio Link](https://zorawarpurohit.com)
  <details>
 <summary>📊 Github Stats</summary>
 
