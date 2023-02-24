@@ -35,25 +35,3 @@
 <p align="left">
 <img src="https://www.vectorlogo.zone/logos/wordpress/wordpress-tile.svg" alt="git" width="40" height="40"/>
 </p>
-
- #### Goals:
-
-- [x] Finish Python Course with certificate
-- [x] Learn Terminal and Github
-- [x] Open pull requests with forked Repos
-- [x] Use API, make GET, POST requests
-- [x] Use twilio API, scrape data & send to pals
-- [x] Learn Flask
-- [x] Build a web app
-- [x] Host on a server
-- [x] Share with pals
-- [x] Deploy with django (dive)
-- [ ] App(triplatform) with flutter (dive)
-- [x] Create & manage servers (dive)
-- [ ] Learn javascript (discover)
-- [ ] Master html, css (discover)
-- [ ] Learn Containers (dive)
-- [ ] Deploy OpenCV Web Project (dive)
-- [ ] ML models undertake d-t-d journey (snorkel)
-- [ ] Discreet Mathematics (snorkel)
-- [ ] Embedded Software Development (snorkel)
