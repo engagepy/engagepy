@@ -46,5 +46,5 @@
 
 <p align="left">
  <img src="https://www.vectorlogo.zone/logos/expoio/expoio-icon.svg" alt="expo" width="40" height="40"/>
- <img src="https://github.com/engagepy/engagepy/assets/42845567/5adb7b1f-0fed-4423-a877-32ec0709291a" alt="openai" width="40" height="40"/>
+ <img src="https://github.com/engagepy/engagepy/assets/42845567/03d40a12-a564-4572-b394-56491526036f" alt="openai" width="40" height="40"/>
 </p>
