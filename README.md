@@ -34,7 +34,7 @@
  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="git" width="40" height="40"/>
  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="git" width="40" height="40"/>
  <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongo" width="40 height="40"/>
- <img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" alt="vercel" width="40" height="40"/>
+ <img src="https://github.com/engagepy/engagepy/assets/42845567/14bc56a1-7bb2-40cf-9618-1b8dd29bf9bb" alt="vercel" width="40" height="40"/>
 </p>
 
 <p align="left">
