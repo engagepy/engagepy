@@ -48,5 +48,5 @@
  <img src="https://www.vectorlogo.zone/logos/expoio/expoio-icon.svg" alt="expo" width="40" height="40"/>
  <img src="https://github.com/engagepy/engagepy/assets/42845567/03d40a12-a564-4572-b394-56491526036f" alt="openai" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="js" width="40" height="40"/>
- 
+<img src="https://github.com/engagepy/engagepy/assets/42845567/dfa15ef6-f911-404f-9830-a88098c8dd93" alt="js" width="40" height="40"/>
 </p>
