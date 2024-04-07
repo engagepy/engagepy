@@ -3,7 +3,7 @@
 [Bio Link](https://zorawarpurohit.com)
  
 
-#### Stack:
+> Stack:
 <p align="left">
 <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="git" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="git" width="40" height="40"/> 
