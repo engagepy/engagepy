@@ -1,12 +1,6 @@
 
 
 [Bio Link](https://zorawarpurohit.com)
- <details>
-<summary>📊 Github Stats</summary>
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=engagepy&show_icons=true&theme=tokyonight" alt="Zorawar Purohit | Stats" />
-
-</details>
  
 
 #### Stack:
