@@ -35,7 +35,6 @@
  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="git" width="40" height="40"/>
  <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongo" width="40 height="40"/>
  <img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" alt="vercel" width="40" height="40"/>
- <img src="" alt="" width="40" height="40"/>
 </p>
 
 <p align="left">
@@ -47,8 +46,5 @@
 
 <p align="left">
  <img src="https://www.vectorlogo.zone/logos/expoio/expoio-icon.svg" alt="expo" width="40" height="40"/>
- <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fseeklogo.com%2Ffree-vector-logos%2Fopen-ai&psig=AOvVaw0_dPT7WXr3S9jBi1JiHHOU&ust=1712609090937000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCNDmw6T8sIUDFQAAAAAdAAAAABAE" alt="openai" width="40" height="40"/>
- <img src="" alt="" width="40" height="40"/>
-
- 
+ <img src="https://github.com/engagepy/engagepy/assets/42845567/5adb7b1f-0fed-4423-a877-32ec0709291a" alt="openai" width="40" height="40"/>
 </p>
